@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/yrewblzm/lab.shahinzare.ir/
+    - /bin/cp index.html $DEPLOYPATH
